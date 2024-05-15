@@ -91,7 +91,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### x.head()
 
-![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/c9a79145-2d0b-47ee-a187-863f96e4a527)
+![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/94777661-d1f3-4139-beb6-93aa623fba16)
+
 
 
 ### accuracy value
