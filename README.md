@@ -80,12 +80,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### data value counts()
 
-![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/ec1d5a2c-49fe-433e-b2b5-1a9fa9a48bcb)
+![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/7802d1e6-92d9-45e6-aa2d-b1226f48ddbf)
+
 
 
 ### data.head() for salary
 
-![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/699c60b9-7792-4d75-b74e-e27a116baa13)
+![image](https://github.com/PYNAMVINODH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742678/62cd34a8-83d7-459a-8600-cf4473067034)
 
 
 ### x.head()
